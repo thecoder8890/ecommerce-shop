@@ -1,6 +1,6 @@
 # e-commerce-app
 
-A new Flutter project.
+A e-commerce app   
 
 ## Getting Started
 
