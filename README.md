@@ -1,4 +1,4 @@
-# treva_shop_flutter
+# e-commerce-app
 
 A new Flutter project.
 
